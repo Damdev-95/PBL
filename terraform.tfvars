@@ -18,7 +18,7 @@ ami = "ami-0c4f7023847b90238"
 
 keypair = "douxtech"
 
-account_no = "014285054687"
+account_no = 014285054687
 
 master-username = "admin"
 
